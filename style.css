@@ -1,0 +1,49 @@
+title{
+ font-size: 32px;
+ color: 002e01;
+}
+
+h1{
+  color:#0d1c5d;
+  font-weight: 500px;
+}
+
+h2{
+  color: 002e01;
+  font-size: 26px;
+}
+
+h3 {
+  color:0000;
+  font-size: 36px;
+  
+}
+
+body{
+ background: rgb(2,96,0);
+background: linear-gradient(90deg, rgba(2,96,0,0.20770314961922265) 0%, rgba(6,214,54,0.2553221972382703) 47%, rgba(198,255,177,0.2777311608237045) 100%);   
+}
+
+i{
+  color: 0000;
+  font-size: 20px;
+}
+
+p{
+  color: #222;
+  sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+blockquote{
+  color: #000e59;
+  font-family: sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-style: italic;
+}
+
+
+
+
